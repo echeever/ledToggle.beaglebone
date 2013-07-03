@@ -1,7 +1,7 @@
 ledToggle.beaglebone
 ====================
 
-Toggle an LED with beaglebone.
+Toggle an LED with beaglebone through a web interface.
 
 This code consists of two files: ledToggle.js and ledToggle.html.   
 
